@@ -1,0 +1,19 @@
+
+server:
+  port: 10001
+spring:
+  application:
+    name: content-provider
+    #数据源部分
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/j1902n?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password:
+eureka:
+  client:
+    service-url:
+      defaulteZone: http://localhost:9090/eureka/
+mybatis:
+  mapper-locations: lasspath:mapping/*.xml
+  type-aliases-package: com.qf.j1902.pojo

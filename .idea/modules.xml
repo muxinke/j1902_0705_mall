@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j1902_0705_mall.iml" filepath="$PROJECT_DIR$/j1902_0705_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0705_urekasever/j1902_0705_urekasever.iml" filepath="$PROJECT_DIR$/j1902_0705_urekasever/j1902_0705_urekasever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_mall_commo/j1902_mall_commo.iml" filepath="$PROJECT_DIR$/j1902_mall_commo/j1902_mall_commo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_mall_content_provider/j1902_mall_content_provider.iml" filepath="$PROJECT_DIR$/j1902_mall_content_provider/j1902_mall_content_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_mall_pojo/j1902_mall_pojo.iml" filepath="$PROJECT_DIR$/j1902_mall_pojo/j1902_mall_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_mall_portal/j1902_mall_portal.iml" filepath="$PROJECT_DIR$/j1902_mall_portal/j1902_mall_portal.iml" />
+    </modules>
+  </component>
+</project>
